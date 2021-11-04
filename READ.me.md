@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/ASP.NET-%20?style=plastic-square&logo=dotnet&logoColor=white&color=147bbd" height="16" />  
   <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=plastic-square&logo=bootstrap&logoColor=white&color=573a7c" height="16" />
   <img src="https://img.shields.io/badge/MATERIALIZE-%20?style=plastic-square&logo=materialize&logoColor=white&color=ee6d72" height="16" />
+  </div>
 
 
 [![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula)](https://https://github.com/RTAcps/github-readme-stats)
