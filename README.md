@@ -16,10 +16,12 @@
   <img src="https://img.shields.io/badge/MATERIALIZE-%20?style=plastic-square&logo=materialize&logoColor=white&color=ee6d72" height="16" />
   </div>
 
-
 ![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTAcps)
 
 <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/rodrigo-teixeira-de-andrade">
 <a href="https://www.linkedin.com/in/rodrigo-teixeira-de-andrade" target="_blank">Rodrigo Teixeira de Andrade</a>
+
+
+![](https://komarev.com/ghpvc/?username=your-github-RTAcps&color=006337&style=flat&label=visitors)
