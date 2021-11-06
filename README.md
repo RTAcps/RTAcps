@@ -17,6 +17,6 @@
   </div>
 
 
-[![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula)](https://https://github.com/RTAcps/github-readme-stats)
+[![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTAcps)](https://github.com/RTAcps/github-readme-stats)	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTAcps)]
