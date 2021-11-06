@@ -17,6 +17,8 @@
   </div>
 
 
-[![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula)]
+![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTAcps)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTAcps)
+
+<a href="https://www.linkedin.com/in/rodrigo-teixeira-de-andrade" target="_blank">Rodrigo Teixeira de Andrade</a>
