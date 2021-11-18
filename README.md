@@ -1,27 +1,39 @@
-<div style="display: flex;">
-  <h6>Languages:</h6>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=plastic-square&logo=javascript&logoColor=white&color=e5a228" height="16" />
-  <img src="https://img.shields.io/badge/HTML5-%20?style=plastic-square&logo=html5&logoColor=white&color=e55126" height="16" />
-  <img src="https://img.shields.io/badge/CSS3-%20?style=plastic-square&logo=css3&logoColor=white&color=0c73b8" height="16" />
-  <img src="https://img.shields.io/badge/PYTHON-%20?style=plastic-square&logo=python&logoColor=white&color=396f9d" height="16"/>
-  <img src="https://img.shields.io/badge/Csharp-%20?style=plastic-square&logo=csharp&logoColor=white&color=7b3399" height="16" />  
-  <img src="https://img.shields.io/badge/JAVA-%20?style=plastic-square&logo=java&logoColor=white&color=ec2025" height="16" />
-  <img src="https://img.shields.io/badge/SQL-%20?style=plastic-square&logo=mysql&logoColor=white&color=00618a" height="16"/>
-  <img src="https://img.shields.io/badge/MONGODB-%20?style=plastic-square&logo=mongodb&logoColor=white&color=208d38" height="16"/>
-  <h6>Frameworks:</h6>
-  <img src="https://img.shields.io/badge/DJANGO-%20?style=plastic-square&logo=django&logoColor=white&color=0f3e2e" height="16" />
-    <img src="https://img.shields.io/badge/REACT-%20?style=plastic-square&logo=react&logoColor=white&color=61dafb" height="16" />
-  <img src="https://img.shields.io/badge/ASP.NET-%20?style=plastic-square&logo=dotnet&logoColor=white&color=147bbd" height="16" />  
-  <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=plastic-square&logo=bootstrap&logoColor=white&color=573a7c" height="16" />
-  <img src="https://img.shields.io/badge/MATERIALIZE-%20?style=plastic-square&logo=materialize&logoColor=white&color=ee6d72" height="16" />
-  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rodrigo-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rodrigo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rodrigo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rodrigo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rodrigo-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rodrigo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rodrigo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+  
+  ##
 
-![Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/RTAcps">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTAcps&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTAcps)
+   ##
 
-<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/rodrigo-teixeira-de-andrade">
-<a href="https://www.linkedin.com/in/rodrigo-teixeira-de-andrade" target="_blank">Rodrigo Teixeira de Andrade</a>
+<div> 
+  <a href="https://www.instagram.com/rodrigo_teixeira_de_andrade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
+  <a href="https://www.linkedin.com/in/rodrigo-teixeira-de-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
+  ##
+  
 ![](https://komarev.com/ghpvc/?username=your-github-RTAcps&color=006337&style=flat&label=visitors)
+  
+  ##
+  
+![Snake animation](https://github.com/RTAcps/RTAcps/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+  
