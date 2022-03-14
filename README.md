@@ -29,9 +29,9 @@
 
 <div align="center">
   <a href="https://github.com/RTAcps">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTAcps&layout=compact&langs_count=7&theme=dracula" alt="Top Langs"/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RTAcps&theme=dracula" alt="GitHub Streaks"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=RTAcps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTAcps&layout=compact&langs_count=7&theme=dracula" alt="Top Langs"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RTAcps&theme=dracula" alt="GitHub Streaks"/>
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=RTAcps&bg_color=0D1117&color=FF9100&line=00AA9B&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RTAcps&row=10&column=7&margin-h=8&theme=dracula&count_private=true&margin-w=15&no-frame=true" alt="Trophies"/>
 </div>
