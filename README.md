@@ -2,7 +2,7 @@
  👋 Hi, I’m Rodrigo Teixeira de Andrade
 
 <p align="center">
-  <a href="https://github.com/NikhilMahana"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code+script&color=%23ff9100&lines=FrontEnd%20Developer;Developer%20I%20at%20Wiz%20Solu%C3%A7%C3%B5es;Wanna%20be%20a%20FullStack%20Specialist&center=true&width=480&height=75"></a>
+  <a href="https://github.com/NikhilMahana"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code+script&color=%23ff9100&lines=Front%20End%20Developer;Developer%20Entry%20Level%20at%20Wiz%20Solu%C3%A7%C3%B5es;I%20would%20like%20to%20be%20a%20Front-End%20Specialist&center=true&width=480&height=75"></a>
 </p>
 
 ##
