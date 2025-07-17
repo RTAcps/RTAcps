@@ -47,7 +47,15 @@
 ![Snake animation](https://github.com/RTAcps/RTAcps/blob/output/github-contribution-grid-snake.svg)
   
    ##
-  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RTAcps/RTAcps/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RTAcps/RTAcps/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RTAcps/RTAcps/output/pacman-contribution-graph.svg">
+</picture>
+    
+   ##
+
 ![Visitors](https://komarev.com/ghpvc/?username=your-github-RTAcps&color=006337&style=flat&label=visitors)
   
 </div>
