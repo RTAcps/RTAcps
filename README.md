@@ -44,7 +44,7 @@
   
   ##
   
-![Snake animation](https://github.com/RTAcps/RTAcps/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/RTAcps/RTAcps/output/snake.svg" alt="Snake animation" />
   
    ##
 
